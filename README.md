@@ -1,2 +1,2 @@
 # Waddle
-A somewhat better Bukkit for voting + exchanging
+A somewhat better Bukkit plugin for voting + exchanging
