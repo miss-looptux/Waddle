@@ -1,2 +1,2 @@
 # Waddle
-A Matrix client made with python
+A somewhat better Bukkit for voting + exchanging
